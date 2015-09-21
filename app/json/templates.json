@@ -1,0 +1,89 @@
+[
+  {
+    "id" : 1,
+    "name" : "Blue Theme",
+    "decription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "type" : "html5",
+    "price" : 9.99,
+    "images" :[
+      {
+        "name" : "blue.jpg"
+      },
+      {
+        "name":"blue1.jpg"
+      },
+      {
+        "name":"blue2.jpg"
+      },
+      {
+        "name":"blue3.jpg"
+      }
+    ],
+    "soldOut" : true
+  },
+  {
+    "id" : 2,
+    "name" : "Red Theme",
+    "decription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "type" : "html5",
+    "price" : 12.99,
+    "images" :[
+      {
+        "name" : "red.jpg"
+      }
+    ],
+    "soldOut" : true
+  },
+  {
+    "id" : 3,
+    "name" : "Yellow Theme",
+    "decription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "type" : "html5",
+    "price" : 6.99,
+    "images" :[
+      {
+        "name" : "yellow.jpg"
+      }
+    ],
+    "soldOut" : false
+  },
+  {
+    "id" : 4,
+    "name" : "Pink Theme",
+    "decription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "type" : "html5",
+    "price" : 8.99,
+    "images" :[
+      {
+        "name" : "pink.jpg"
+      }
+    ],
+    "soldOut" : false
+  },
+  {
+    "id" : 5,
+    "name" : "Green Theme",
+    "decription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "type" : "html5",
+    "price" : 16.99,
+    "images" :[
+      {
+        "name" : "green.jpg"
+      }
+    ],
+    "soldOut" : true
+  },
+  {
+    "id" : 6,
+    "name" : "Orange Theme",
+    "decription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "type" : "html5",
+    "price" : 14.99,
+    "images" :[
+      {
+        "name" : "orange.jpg"
+      }
+    ],
+    "soldOut" : true
+  }
+]
